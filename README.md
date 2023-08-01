@@ -34,6 +34,6 @@
 - Context API
 - Controle de versão GIT
 
-💻 Página do projeto -  [Projeto Food Commerce](https://food-commerce-react-c86k7vgyy-lucas-cassimiro.vercel.app/)
+💻 Página do projeto -  [Projeto Food Commerce](https://food-commerce-react-830fyzpqr-lucas-cassimiro.vercel.app/)
 
 🙋‍♂️ Perfil no LinkedIn - [Lucas Cassimiro](https://www.linkedin.com/in/lucasocassimiro/)
